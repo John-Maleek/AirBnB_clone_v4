@@ -1,0 +1,5 @@
+{
+  "editor.defaultFormatter": "flet.vscode-semistandard",
+  "prettier.useEditorConfig": false,
+  "editor.formatOnSave": true
+}
